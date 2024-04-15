@@ -1,0 +1,25 @@
+ 4. 
+ A. domain-Meijer, D&W, and Sam's Club. 
+ B. the what hapens-Class Adli{ Grab groceeries();, Checkout();, Pay();, and Bag-items(); }
+ C. the how-Checkout(int groceeriesprice[]) 
+ {for(int = 0; int < groceerprices.length; i++){int sum = sum + groceerprices[i]} return sum;}
+ D. Because at the logical level, all information of HOW the program works is hidden, which hides the implementation level. 
+ 10. 1009 because base address 1000  + offset of 9 == 1009 
+ 11.  
+ A.WeatherType WeatherTypeList{'JAN'->0, 'FEB'->0, 'MAR'->0, 'APR'->0, 'MAY'->0, 'JUN'->0, 'JUL'->0, 'AUG'->0, 'SEP'->0, 'OCT'->0, 'NOV'->0, 'DEC'->0}; WeatherTypeList yearlyweather;
+ B. yearlyweather[JUL] = 1.05
+ c. 200 + 7 * 2 = 214 assuming that the name of teh direct address doesn't affect anything.
+ 14.           base + offset(size of elements * elements) = actual addresses
+ firstName    100     10*1  = 100-109
+ lastName     110     10*1  = 110-119
+ id           120     1*1   = 120
+ gpa          121     2*1   = 121-122
+ currentHours 123     1*1   = 123
+ totalHours   124     1*1   = 124
+ 15. Addresses 121-122
+ 16. 124 - 100 = 25 Address spaces. if each address space is 8 bits, than 25 * 8 = 200bits 
+ 20. By making the data members and functions private. AKA, by encapsulating them. 
+ 21. A. False, if data memebers are private they can only be accesesd through the public member functions.
+ B. True, granted that the client program is public. 
+ 22. Because it better represents the different levels of abstraction-logical for the header class, and implmentation for how the members actually work. Also, it makes the implementation file easier to read. 
+ 28. Sorry, I'm still busy doing operating systems, If I don't update my submission by the end of today, i probably don't finish this.

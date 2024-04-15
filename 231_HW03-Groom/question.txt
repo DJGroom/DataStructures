@@ -1,0 +1,16 @@
+#7 A .An array has the function of direct access and is in sequential order in memory, whereas a linked list does not have direct access index and its memory is not stored in sequential order
+B. Where the list of data you are handling is small. So the seuntial array will fit easily in memory. 
+C. 
+#8 A. False. B. False. C. True. False.
+#9 A. 30 B. 90. C. 45
+#10 A. True. B. False. C. False. D. True.
+#11 A. OK B. What does * doing? C. OK. D. A pointer can't store info.  E. OK. F. OK. 
+#12 A. listData->next->next->info. B. ptr2->next->info 
+C. listData->next->next->next->next->next->next/list.MakeEmpty D. ptr1->next->info = 60.
+#13 200
+#14 500
+#15 202
+#16 Good luck
+#17 300
+#18 o
+
